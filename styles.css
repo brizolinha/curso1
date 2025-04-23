@@ -1,0 +1,19 @@
+body{
+color: rgb(0, 0, 0);
+background-color: blue;
+padding: 20px;
+line-height: 1.6;
+}
+
+h1, h2, h3{
+    margin: 10px 0;
+    font-weight: 700;
+}
+
+.selo{
+    background-color: azure;
+    color: red;
+    padding: 5px 20px
+    font-size: 14px;
+    border-radius: 12px;
+}
